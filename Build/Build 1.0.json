@@ -1,0 +1,12 @@
+{
+"companyName": "Procastinator Company",
+"productName": "Space_Shooter_1",
+"dataUrl": "Build 1.0.data.unityweb",
+"wasmCodeUrl": "Build 1.0.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build 1.0.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
